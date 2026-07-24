@@ -30,3 +30,13 @@ if weather == "sunny":
         print("Sunny but cold")
 else:
     print("Not a sunny day")
+
+
+if weather == "sunny" and temperature > 25:
+    print("Perfect day for swimming!")
+elif weather == "sunny" and temperature > 15:
+    print("Good day for a walk")
+elif weather == "sunny":
+    print("Sunny but cold")
+else:
+    print("Not a sunny day")
