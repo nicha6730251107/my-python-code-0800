@@ -22,7 +22,3 @@ def calculate_circle_area(radius):
 print("Calculating circle areas:")
 calculate_circle_area(5, 7)
 calculate_circle_area(10, 7)
-
-# เขียนฟังก์ชัน ชื่อ calculate_sphere(radius):
-# คำนวนหา ปริมาตร ของทรงกลม volumn = 4.0 / 3 * radius ** 3
-# จากนั้นแสดงผลลัพธ์ที่เหมาะสมออกทางจอ
