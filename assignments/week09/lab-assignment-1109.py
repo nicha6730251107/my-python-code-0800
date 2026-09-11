@@ -50,8 +50,6 @@ def calculate_electricity_cost():
     print("รวมค่าไฟทั้งสิ้น:", cost, "บาท")
     print()
 
-
-# --- ส่วนวนลูปเมนู ---
 while True:
     print("===== โปรแกรมคำนวณค่าไฟฟ้า =====")
     print("1. คำนวณค่าไฟ")
